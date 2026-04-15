@@ -21,8 +21,8 @@ local GameId  = game.GameId
 local GAMES = {
     TSB = {
         placeIds = {
-            4476116877, -- alt / ggf. lobby
-            6456828791  -- alt
+            10449761463, -- alt / ggf. lobby
+            10449761463  -- alt
         },
         gameId = 10449761463 -- ✅ The Strongest Battlegrounds UniverseId
     },
