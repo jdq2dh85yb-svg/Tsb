@@ -24,7 +24,7 @@ local GAMES = {
             4476116877, -- alt / ggf. lobby
             6456828791  -- alt
         },
-        gameId = 147848991 -- ✅ The Strongest Battlegrounds UniverseId
+        gameId = 10449761463 -- ✅ The Strongest Battlegrounds UniverseId
     },
 
     DOORS = {
